@@ -3,7 +3,7 @@
 **_Can anyone decipher the message contained in the text file: 
 `anticrypto_message.txt`?_**
 
-This is a simple experiment in anticryptography, wherein the goal is to create a transmittable message that is *easy* to decipher rather hand difficult. Ideally the message contains its own primer to teach one how to read the message.
+This is a simple experiment in anticryptography, wherein the goal is to create a transmittable message that is *easy* to decipher rather than difficult. Ideally the message contains its own primer to teach one how to read the message.
 (Recall the movie "Contact" where Ellie figures out how to read the alien transmission.) 
 
 The message in `anticrypto_message.txt` contains a continuous string of 4,299 binary digits. And it contains a primer as well as a primary message.
@@ -19,7 +19,7 @@ andrew.steckley@discoverorg.com
 
 * There is no "trick question" here. 
 * The sender (me) *wants* you to succeed in figuring out the message. It helps to remember this when trying to decipher it.
-* The file contains the message stored in ascii text, but the message itself is the continuous string of binary digits -- the 0's oand 1's you see in a simple text editor.
+* The file contains the message stored in ASCII text, but the message itself is the continuous string of binary digits -- the 0's oand 1's you see in a simple text editor.
 
 (As soon as anyone has cracked it, I'll post an update here too.)
 
