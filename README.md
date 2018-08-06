@@ -10,7 +10,7 @@ The message in `anticrypto_message.txt` contains a continuous string of 4,299 bi
 
 Normal communications rely on both sender and reciever having a shared context and a coding system used to encode the message. 
 For example, the document you are reading uses the english language and the english alphabet.
-But when sender and recceiver have never met and so do not both know a common coding system, then might they communicate? 
+But when sender and recceiver have never met and so do not both know a common coding system, then how might they communicate? 
 One must create a message that relies on some minimal context that is garanteed to be shared, and then use that to bootstrap the teaching of a coding system.
 
 If you have a affinity for this kind of challenge, take a crack to figuring out the message. 
