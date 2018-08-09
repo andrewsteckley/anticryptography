@@ -16,6 +16,7 @@ One must create a message that relies on some minimal context that is guaranteed
 If you have an affinity for this kind of challenge, take a crack to figuring out the message. 
 Please send me your answer (or your questions). You can email me at:
 andrew.steckley@discoverorg.com
+
 I'm very curious to hear about how people approach this problem and the thinking process they use to solve this. Or by which they fail to solve it.
 
 Note:
