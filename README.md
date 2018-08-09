@@ -16,7 +16,9 @@ One must create a message that relies on some minimal context that is guaranteed
 If you have an affinity for this kind of challenge, take a crack to figuring out the message. 
 Please send me your answer (or your questions). You can email me at:
 andrew.steckley@discoverorg.com
+I'm very curious to hear about how people approach this problem and the thinking process they use to solve this. Or by which they fail to solve it.
 
+Note:
 * There is no "trick question" here. 
 * The sender *wants* you to succeed in figuring out the message. It helps to remember this when trying to decipher it.
 * The file contains the message stored in ASCII text, but the message itself is the continuous string of binary digits -- the 0's oand 1's you see in a simple text editor.
